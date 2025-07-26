@@ -450,8 +450,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙌 Author
 
-👨‍💻 **Harswardhan Jadhav**   
-🔗 [LinkedIn](www.linkedin.com/in/jadhavharshwardhan) | [GitHub](https://github.com/Harshwardhanjadhav0/Multi-Tier-Infrastructure-using-Ansible-on-Kubernetes-LAMP-Stack-)  
+👨‍💻 ** piyush Bankhede **   
 
 ---
 
